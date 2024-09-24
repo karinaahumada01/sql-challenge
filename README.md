@@ -59,3 +59,13 @@
 
 ## Visualization:
 ### -- The QuickDBD-ERD.png image provides a visual reference to the database structure, showing how tables relate to each other. This helps in understanding the relationships and designing queries effectively.
+
+
+## References
+Used both references for troubleshooting errors with ERD script.
+
+EdX. (Sep 2024). Xpert Learning Assistant. EdX. https://bootcampspot.instructure.com/
+
+ChatGPT was used for README outline & format. 
+
+OpenAI. (2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/
