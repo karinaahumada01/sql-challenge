@@ -43,19 +43,19 @@
 ## Project Structure:
 ### The project revolves around an employee management system where:
 
-### Employees are assigned to departments, and some employees also manage those departments.
-### Each employee has a unique employee number, and their details such as name, birthdate, and hire date are stored.
-### Employees have specific roles/titles, and their corresponding salary is recorded.
-### The relationships between employees, departments, and salaries are maintained via foreign key constraints, ensuring referential integrity across tables.
+#### Employees are assigned to departments, and some employees also manage those departments.
+#### Each employee has a unique employee number, and their details such as name, birthdate, and hire date are stored.
+#### Employees have specific roles/titles, and their corresponding salary is recorded.
+#### The relationships between employees, departments, and salaries are maintained via foreign key constraints, ensuring referential integrity across tables.
 ### How to Use:
-### --Database Setup:
-### ----Use the QuickDBD-Table_Schemata.sql to create the database schema. It contains the table definitions required to structure the employee management system.
+#### --Database Setup:
+#### ----Use the QuickDBD-Table_Schemata.sql to create the database schema. It contains the table definitions required to structure the employee management system.
 
 ### Data Insertion:
-### -- The .csv files (like departments.csv, employees.csv, etc.) can be used to populate the corresponding tables with sample data using SQL import functionality.
+#### -- The .csv files (like departments.csv, employees.csv, etc.) can be used to populate the corresponding tables with sample data using SQL import functionality.
 
 ## Task Queries:
-## -- The HW_Tasks_Query.sql file contains queries to interact with the database. You can modify these queries to suit specific needs such as retrieving employee details, department managers, salary reports, etc.
+### -- The HW_Tasks_Query.sql file contains queries to interact with the database. You can modify these queries to suit specific needs such as retrieving employee details, department managers, salary reports, etc.
 
 ## Visualization:
-## -- The QuickDBD-ERD.png image provides a visual reference to the database structure, showing how tables relate to each other. This helps in understanding the relationships and designing queries effectively.
+### -- The QuickDBD-ERD.png image provides a visual reference to the database structure, showing how tables relate to each other. This helps in understanding the relationships and designing queries effectively.
